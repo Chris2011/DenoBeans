@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: io/github/chris2011/netbeans/plugins/denobeans/Bundle.properties
+
